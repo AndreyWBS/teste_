@@ -1,0 +1,9 @@
+view\TelaPrincipal.class
+dao\ProdutoDAO.class
+principal\main.class
+model\Categoria.class
+dao\CategoriaDAO.class
+model\Produto.class
+model\Movimento.class
+dao\MovimentoDAO.class
+util\Conexao.class
